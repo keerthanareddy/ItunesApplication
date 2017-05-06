@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/ref_list"
+        android:title="@string/refresh_list"></item>
+
+    <item android:id="@+id/fav_list"
+        android:title="@string/fav"></item>
+
+    <item android:id="@+id/sort_inc"
+        android:title="@string/sort_incr"></item>
+
+    <item android:id="@+id/sort_dec"
+        android:title="@string/sort_desc"></item>
+
+
+
+</menu>
